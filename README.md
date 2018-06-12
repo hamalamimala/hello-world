@@ -1,5 +1,5 @@
 # hello-world
 first test repository
 
-hello, world
+hello, world: 
 this is a test 
